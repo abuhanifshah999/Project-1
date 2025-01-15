@@ -1,2 +1,2 @@
 # Project-1
-4th industrial Revolution
+4th Industrial Revolution
